@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*css til mellemformater fx tablets*/
+
+footer {
+	display: block;
+	height: 80px;
+	background: lightblue;
+}
+.logo {
+	width: 15.5%;
+}
+nav {
+	width: 75.5%;
+	height: 60px;
+}
+article {
+	width: 60%;
+	
+}
+.banner {
+	width: 31%;
+	background: #FFDD00;
+	height: 200px;
+}
